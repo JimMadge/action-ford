@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
       - name: Build
-        uses: JimMadge/ford-action@v1
+        uses: ./
       - name: Deploy
         if: success()
         uses: crazy-max/ghaction-github-pages@v1
