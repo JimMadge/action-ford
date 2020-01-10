@@ -2,7 +2,7 @@ src_dir: ./src/
 output_dir: ./doc
 project: Example
 summary: An example Fortran program
-license: MIT
+license: by
 project_github: https://github.com/jimmadge/action-ford
 project_website: https://github.com
 author: Harry Lime
