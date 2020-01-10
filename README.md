@@ -7,6 +7,7 @@ Page](https://github.com/marketplace/actions/github-pages).
 
 ## Example usage
 
+```yaml
 name: Docs
 
 on: push
@@ -27,3 +28,4 @@ jobs:
         build_dir: doc
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
