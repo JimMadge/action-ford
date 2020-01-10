@@ -5,6 +5,12 @@ This action builds documentation for a Fortran project using
 then be deployed using an action such as [GitHub
 Page](https://github.com/marketplace/actions/github-pages).
 
+## Inputs
+
+### `project_file`
+
+**Required** Name of the FORD project file (default project-file.md)
+
 ## Outputs
 
 ### `output_dir`
