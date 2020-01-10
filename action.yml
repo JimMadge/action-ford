@@ -3,6 +3,9 @@
 name: FORD Documenation
 author: Jim Madge
 description: Build documenation for a Fortran project using FORD
+outputs:
+  output_dir:
+    description: Path to the directory where documentation is written
 runs:
   using: docker
   image: Dockerfile
