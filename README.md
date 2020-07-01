@@ -1,3 +1,9 @@
+# This project has moved
+
+You can now find the published action 
+[here](https://github.com/marketplace/actions/ford-documentation) and the
+repository [here](https://github.com/ResearchSoftwareActions/ford-build).
+
 # FORD docker action
 
 This action builds documentation for a Fortran project using
